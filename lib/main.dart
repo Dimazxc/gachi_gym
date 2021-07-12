@@ -22,7 +22,7 @@ class RegistrationBody extends StatelessWidget {
     return Column(
       children: [
         SizedBox(
-          height: 30,
+          height: 20,
         ),
         ImageBody(),
         Divider(),
